@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: dhruvilpatel07@icloud.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I will be publishing Task Manager App to app store in about 2-3 weeks
 <!--
+- ⚡ Fun fact: I will be publishing Task Manager App to app store in about 2-3 weeks
+
 - 🤔 I’m looking for help with ... 
 -->
 
